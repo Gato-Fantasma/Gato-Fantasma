@@ -1,4 +1,7 @@
-<p align="center">⫷ Bem Vindo ao perfil ⫸</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">⚜Seja Bem vindo ao Perfil⚜</h1></summary>
+</div>
 
 ###
 
@@ -20,7 +23,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gato-Fantasma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### Skills
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Skills🔥</h1></summary>
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -34,9 +40,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
-### Social
-
-<br clear="both">
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Social🚀</h1></summary>
+</div>
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCWjDwFQKLBOOw1rjnFJ6BbA" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
