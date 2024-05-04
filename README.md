@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://www.youtube.com/channel/UCWjDwFQKLBOOw1rjnFJ6BbA" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  <a hrelf="https://www.instagram.com/gato_fantasma38?igsh=MWU5dTR2cTI3cm9tcw==" target="_blank" ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a hrelf="https://www.instagram.com/gato_fantasma38" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
 </div>
 
 ###
