@@ -1,15 +1,46 @@
+
+<div align="center">
+  <img height="50" src="https://github.com/Gato-Fantasma/Gato-Fantasma/blob/main/-Luiz-Eduardo.png"  />
+</div>
+
+---
+
+###
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">⚜Seja Bem vindo ao Perfil⚜</h1></summary>
+    <summary> <img height="50" src="https://github.com/Gato-Fantasma/Gato-Fantasma/blob/main/Seja-bem-vindo-ao-Perfil.png"  /></summary>
 </div>
 
 <div align="center">
-  <img height="200" src="https://gifdb.com/images/high/neon-car-80s-synthwave-aesthetic-hdvy2wl6de6eooyg.gif"  />
+  <img height="300" src="https://i.redd.it/fx58j1opheu71.gif"  />
 </div>
+
+---
 
 ###
 
 <p align="left">hi I'm Luiz 👋👋 <br>I am a computer science student at Unipe in João Pessoa PB</p>
+
+###
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" alt="Java logo"  />
+</div>
+
+###
+
+<div align="center">
+  <!-- Ícone do LinkedIn -->
+  <a href="https://www.linkedin.com/in/luiz-eduardo-82003a2b6/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  
+</div>
 
 ###
 
@@ -18,32 +49,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gato-fantasma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Gato_fantasma38">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Gato_fantasma38&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
