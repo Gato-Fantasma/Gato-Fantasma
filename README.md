@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">hi I'm Luiz 👋👋 <br>I am a computer science student at Unipe in João Pessoa PB</p>
+<p align="left">Estudante de ciencias da computação(4º périodo)</p>
 
 ###
 ###
