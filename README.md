@@ -1,53 +1,59 @@
+# Prazer sou Luiz Eduardo
 
-<div align="center">
-  <img height="50" src="https://github.com/Gato-Fantasma/Gato-Fantasma/blob/main/-Luiz-Eduardo.png"  />
-</div>
+Estudante de **Ciência da Computação** na Unipe em João pessoa/PB. 
+Atualmente estudando e desenvolvendo projetos utilizando **Python, Django e Java**, além de aprofundar conhecimentos em **Linux e fundamentos de segurança da informação**.
 
----
-
-###
-<div id="user-content-toc">
-  <ul align="center">
-    <summary> <img height="50" src="https://github.com/Gato-Fantasma/Gato-Fantasma/blob/main/Seja-bem-vindo-ao-Perfil.png"  /></summary>
-</div>
-
-<div align="center">
-  <img height="300" src="https://i.redd.it/fx58j1opheu71.gif"  />
-</div>
+Busco evoluir tecnicamente através de projetos práticos, estudo contínuo e colaboração em ambientes de desenvolvimento.
 
 ---
 
-###
+## Tecnologias em estudo
 
-<p align="left">Estudante de ciencias da computação(4º périodo)</p>
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-###
-###
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" alt="Java logo"  />
-</div>
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-###
+### Ferramentas e Ambiente
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div align="center">
-  <!-- Ícone do LinkedIn -->
-  <a href="https://www.linkedin.com/in/luiz-eduardo-82003a2b6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  
-</div>
+---
 
-###
+## Interesses técnicos
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gato-fantasma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gato-fantasma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Atualmente direcionando meus estudos para:
 
+- Desenvolvimento **Backend**
+- **APIs REST**
+- Modelagem de **bancos de dados**
+- **Linux e ambientes de desenvolvimento**
+- Fundamentos de **Segurança da Informação**
 
+Também estudo ferramentas e conceitos de segurança utilizando ambientes como **Kali Linux**, com foco educacional e de laboratório.
 
+---
+
+## Experiência acadêmica
+
+Participação em projeto acadêmico supervisionado na **Fábrica de Software**, atuando no desenvolvimento backend utilizando Django, aplicando conceitos de lógica de negócio, integração com banco de dados e versionamento de código.
+
+---
+
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## Contato
+
+LinkedIn  
+https://www.linkedin.com/in/SEU_LINKEDIN
