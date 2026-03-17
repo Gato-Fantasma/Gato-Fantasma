@@ -56,4 +56,6 @@ Participação em projeto acadêmico supervisionado na **Fábrica de Software**,
 ## Contato
 
 LinkedIn  
-https://www.linkedin.com/in/SEU_LINKEDIN
+www.linkedin.com/in/luiz-eduardo-alves-de-lima-nascimento-82003a2b6
+
+
